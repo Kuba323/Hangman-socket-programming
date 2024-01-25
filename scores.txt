@@ -1,0 +1,12 @@
+Miro,6
+miro,0
+kuba,0
+kuba1,2
+klient_test,3
+klient_test2,0
+kuba,0
+kuba3,0
+kuba4,2
+kuba,0
+Kuba,0
+kuba10,0
