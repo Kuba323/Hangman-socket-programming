@@ -1,1 +1,1 @@
-# Simple hangman game using socket programming between server and client
+# Simple hangman game, using socket programming, between server and client
